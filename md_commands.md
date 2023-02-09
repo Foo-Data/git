@@ -19,7 +19,12 @@ Verificar la siguiente tabla con todos las opciones en general que puedan ser im
 | `***My-Foo***` | Negrita y Cursiva | ***My-Foo*** |
 | `<sub>My-Foo</sub>` | Subíndice | <sub>My-Foo</sub> |
 | `> My-Foo` | Citar Texto | (vista no disponible) |
-| ``My-Foo`` | Cita de Código | `My-Foo` |
-| ```` git commit ```` | Formato de Código | ``` git commit ``` |
+| Comillas Dobles  | Cita de Código | `My-Foo` (encerrar el texto en las comillas) |
+| Comillas Triples | Formato de Código | ``` git commit ``` (encerrar el texto en las comillas) |
+
+**Estilos de Texto:**
+Aplicar color al texto, puede ser en sitaxis "HEX", "RGB" o "HSL".
+Para HEX `#FF0000` Texto
+afa
 
 
