@@ -22,9 +22,17 @@ Verificar la siguiente tabla con todos las opciones en general que puedan ser im
 | Comillas Dobles  | Cita de Código | `My-Foo` (encerrar el texto en las comillas) |
 | Comillas Triples | Formato de Código | ``` git commit ``` (encerrar el texto en las comillas) |
 
-**Estilos de Texto:**
-Aplicar color al texto, puede ser en sitaxis "HEX", "RGB" o "HSL".
-Para HEX `#FF0000` Texto
-afa
+#### **Vínculos:**
+La forma de agregar un enlace o crear un vínculo de un texto a un enlace se realiza de la siguiente forma:  
+Primero usar corchetes `[]` y luego paréntesis `()`.  
+Corchetes incluye el texto que el cual aparecerá en la lectura.  
+Parentésis incluye el enlace o url.  
+`[google](https://google.com)`  
+Ejemplo: Mi canal de youtube donde muesto [contenido de Datos SQL](https://www.youtube.com/channel/UCma5mr0aK0v6BrRDrE2ParQ).  
+
+#### **Imagen:**
+Para las imágenes es muy similar como la anterior, debido a que son vinculos a recursos que se pueden ubicar en el mismo repositorio (estos cuentan con enlaces o vínculos).  
+Sintaxis: `![google](https://google/image.com)`  
+Ejemplo con la sintaxis anterior:
 
 
