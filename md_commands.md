@@ -6,9 +6,9 @@ Verificar la siguiente tabla con todos las opciones en general que puedan ser im
 **Encabezados:**
 | Sintaxis | Descripción | Resultado |
 | --- | --- | --- |
-| `# My-Foo` | Encabezado (Grande) | # My-Foo |
-| `## My-Foo` | Encabezado (Medio) | ## My-Foo |
-| `### My-Foo` | Encabezado (Pequeño) | ### My-Foo |
+| `# My-Foo` | Encabezado (Grande) | (vista no disponible) |
+| `## My-Foo` | Encabezado (Medio) | (vista no disponible) |
+| `### My-Foo` | Encabezado (Pequeño) | (vista no disponible) |
 
 **Estilos de Texto:**
 | Sintaxis | Descripción | Resultado |
@@ -18,7 +18,8 @@ Verificar la siguiente tabla con todos las opciones en general que puedan ser im
 | `~~My-Foo~~` | Tachado | ~~My-Foo~~ |
 | `***My-Foo***` | Negrita y Cursiva | ***My-Foo*** |
 | `<sub>My-Foo</sub>` | Subíndice | <sub>My-Foo</sub> |
-| `> My-Foo` | Citar Texto | > My-Foo |
-| `My-Foo` |  |  |
+| `> My-Foo` | Citar Texto | (vista no disponible) |
+| ``My-Foo`` | Cita de Código | `My-Foo` |
+| ```` git commit ```` | Formato de Código | ``` git commit ``` |
 
 
