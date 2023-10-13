@@ -35,6 +35,8 @@ Para las imágenes es muy similar como la anterior, debido a que son vinculos a 
 Sintaxis: `![google](https://google/image.com)`  
 Ejemplo con la sintaxis anterior:
 [Mario Retro](image/capture.png)
+O se puede observar a Mario Retro así:
+(image/capture.png)
 
 #### **Tablas:**
 | Alineación Izq. | Alineación Centrada | Alineación Der. |
