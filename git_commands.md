@@ -17,7 +17,7 @@ git push -u origin main
 ```
 
 # GIT Cheat Sheet
-## 01 Configuración en GIT \
+## 01 Configuración en GIT
 - Configurar el nombre que se adjuntará con los commits y tags.
 ```ruby
 git config --global user.name *your name*
@@ -31,7 +31,7 @@ git config --global user.email *your email*
 git config --global color.ui auto
 ```
 
-## 02 Iniciando un proyecto\
+## 02 Iniciando un proyecto
 - Crear un nuevo repositorio localmente. Si el *project name* es dado, GIT creará un nuevo nombre de directorio *project name* y lo inicializará con un repositorio dentro de sí. Si *project name* no es dado, entonces un nuevo repositorio se inicializará en el directorio actual.
 ```ruby
 git init *project name*
@@ -102,7 +102,7 @@ git stash pop
 git stash drop
 ```
 
-## 04 Modelo de Ramas GIT\
+## 04 Modelo de Ramas GIT
 
 - Enlistar todas las ramas locales. Con *-a* se muestran todas las ramas remoto. 
 ```ruby
