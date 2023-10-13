@@ -33,10 +33,10 @@ Ejemplo: Mi canal de youtube donde muesto [contenido de Datos SQL](https://www.y
 #### **Imagen:**
 Para las imágenes es muy similar como la anterior, debido a que son vinculos a recursos que se pueden ubicar en el mismo repositorio (estos cuentan con enlaces o vínculos).  
 Sintaxis: `![google](https://google/image.com)`  
-Ejemplo con la sintaxis anterior:
-[Mario Retro](image/capture.png)
+Ejemplo con la sintaxis anterior: 
+[Mario Retro](image/capture.png) 
 O se puede observar a Mario Retro así:
-(image/capture.png)
+!(image/capture.png)
 
 #### **Tablas:**
 | Alineación Izq. | Alineación Centrada | Alineación Der. |
@@ -45,8 +45,17 @@ O se puede observar a Mario Retro así:
 | myfoo-data     | myfoo-data       | myfoo-data      |
 
 
+#### **Anotaciones:**
+> [!NOTE]
+> Resalta la información para que los usuarios puedan visualizar.
+
+> [!IMPORTANT]
+> Información importante necesaria para que los usuarios tomen en cuenta.
+
+> [!WARNING]
+> Contenido crítico que demanda al usario su atención por cualquier riesgo.
 
 
-https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
-https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
+#### **Ocultar contenido:**
+`<!-- No aparece -->`
+<!-- This content will not appear in the rendered Markdown -->
