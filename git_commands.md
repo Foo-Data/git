@@ -14,6 +14,11 @@ git push -u origin main
 git remote add origin `enlace del repositorio`
 git branch -M main
 git push -u origin main
+
+git add . 
+git commit -m "new updates"
+git push -u origin main
+
 ```
 
 # GIT Cheat Sheet
