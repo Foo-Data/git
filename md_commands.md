@@ -34,8 +34,7 @@ Ejemplo: Mi canal de youtube donde muesto [contenido de Datos SQL](https://www.y
 Para las imágenes es muy similar como la anterior, debido a que son vinculos a recursos que se pueden ubicar en el mismo repositorio (estos cuentan con enlaces o vínculos).  
 Sintaxis: `![google](https://google/image.com)`  
 Ejemplo con la sintaxis anterior:
-[Mario Retro](_git\image\capture.png)
-
+[Mario Retro](image/capture.png)
 
 #### **Tablas:**
 | Alineación Izq. | Alineación Centrada | Alineación Der. |
