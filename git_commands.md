@@ -17,7 +17,7 @@ git push -u origin main
 ```
 
 # GIT Cheat Sheet
-## 01 Configuración en GIT\
+## 01 Configuración en GIT \
 - Configurar el nombre que se adjuntará con los commits y tags.
 ```ruby
 git config --global user.name *your name*
